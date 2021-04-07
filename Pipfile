@@ -9,6 +9,9 @@ djangorestframework = "*"
 psycopg2-binary = "*"
 django-on-heroku = "*"
 gunicorn = "*"
+django-environ = "*"
+django-cors-headers = "*"
+django-extensions = "*"
 
 [dev-packages]
 
